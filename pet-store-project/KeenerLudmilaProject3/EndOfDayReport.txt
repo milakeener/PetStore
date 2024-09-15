@@ -1,0 +1,14 @@
+Purchased Products:
+	Waffle - $100.0
+	Poe - $150.0
+	Karma - $100.0
+
+New Member Registrations:
+	Jo (ID: 6)
+	Sage (ID: 33)
+
+Total Sales and Revenue:
+	Total Sales: $350.0
+	Revenue: $350.0
+
+End of Day Report
